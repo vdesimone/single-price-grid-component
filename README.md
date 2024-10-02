@@ -23,13 +23,13 @@ Users should be able to:
 ### Screenshot
 
 <p>
-  <strong>1440x850 Laptop L View</strong>
+  <strong>Laptop L View (1440x850)</strong>
   <br />
   <img src="https://github.com/user-attachments/assets/cdda578e-7417-4e30-9e4f-4d4f5faa59b9" alt="single-price-grid-component-1440x850" />
 </p>
 
 <p>
-  <strong>320x850 Mobile S View</strong>
+  <strong>Mobile S View (320x850)</strong>
   <br />
   <img src="https://github.com/user-attachments/assets/e2a765d7-5641-41d1-b534-a8b3731a9e1d" alt="single-price-grid-component-320x850" />
 </p>
