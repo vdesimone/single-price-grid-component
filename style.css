@@ -96,6 +96,11 @@ p {
   box-shadow: 0 8px 15px hsla(224, 30%, 27%, 0.2);
   margin-top: auto;
   font-size: 18px;
+  transition: background-color 0.05s;
+}
+.monthly-subscription button:hover {
+  background-color: hsl(71, 54%, 52%);
+  cursor: pointer;
 }
 .monthly-subscription h2, .why-us h2 {
   margin-bottom: 20px;
@@ -118,6 +123,11 @@ p {
   margin-bottom: 5px;
   font-size: 16px;
   color: hsl(204, 43%, 93%, 0.9);
+}
+.why-us ul li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #fff;
 }
 
 @media screen and (max-width: 550px) {
