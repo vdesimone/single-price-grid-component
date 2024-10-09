@@ -25,13 +25,19 @@ Users should be able to:
 <p>
   <strong>Laptop L View (1440x850)</strong>
   <br />
-  <img src="https://github.com/user-attachments/assets/cdda578e-7417-4e30-9e4f-4d4f5faa59b9" alt="single-price-grid-component-1440x850" />
+  <img src="https://github.com/user-attachments/assets/870cc503-e5da-41a6-8a2f-fb0904f36680" alt="Bento Grid Laptop L View" />
+</p>
+
+<p>
+  <strong>Tablet View (768x850)</strong>
+  <br />
+  <img src="https://github.com/user-attachments/assets/52b4cdb3-9262-4cd1-84c8-c024bf151738" alt="Bento Grid Tablet View" />
 </p>
 
 <p>
   <strong>Mobile S View (320x850)</strong>
   <br />
-  <img src="https://github.com/user-attachments/assets/e2a765d7-5641-41d1-b534-a8b3731a9e1d" alt="single-price-grid-component-320x850" />
+  <img src="https://github.com/user-attachments/assets/b96b457f-65a9-4cc3-92a1-04af8e262196" alt="Bento Grid Mobile S View" />
 </p>
 
 ## Built with
